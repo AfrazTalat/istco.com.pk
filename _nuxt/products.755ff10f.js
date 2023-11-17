@@ -1,0 +1,1 @@
+import{q as s,k as o,x as u,s as d}from"./entry.8386a641.js";const p=s("products",()=>{const r=o(d),e=u(r,"ecommerce/products");return{products:r,fetchProducts:t=>e.fetch({params:t}),getProduct:(t,c)=>e.get(t,{params:c})}});export{p as u};

@@ -1,0 +1,1 @@
+import{q as c,k as o,x as n,s as u}from"./entry.8386a641.js";const p=c("projects",()=>{const t=o(u),e=n(t,"content/projects");return{projects:t,fetchProjects:()=>e.fetch(),getProject:(r,s)=>e.get(r,{params:s})}});export{p as u};

@@ -1,0 +1,1 @@
+import{aK as e}from"./entry.8386a641.js";async function s(a){return await(await e(()=>import("./locale-loader.0575d2c1.js"),["./locale-loader.0575d2c1.js","./entry.8386a641.js","./entry.9d751567.css"],import.meta.url).then(t=>t.default||t))(a)}export{s as default};

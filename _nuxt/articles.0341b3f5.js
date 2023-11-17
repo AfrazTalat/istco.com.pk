@@ -1,0 +1,1 @@
+import{q as c,k as i,x as o,s as a}from"./entry.8386a641.js";const f=""+new URL("clock.94a50158.svg",import.meta.url).href,A=c("articles",()=>{const t=i(a),e=o(t,"content/articles");return{articles:t,fetchArticles:()=>e.fetch(),getArticle:(r,s)=>e.get(r,{params:s})}});export{f as _,A as u};
